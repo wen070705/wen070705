@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wen070705.github.io">
-    <img src="./assets/garden-knight.png" width="100%" alt="A hand-painted garden knight overlooking a living research grove" />
+    <img src="./assets/garden-knight-doodle.png" width="100%" alt="A loose watercolor doodle of a garden knight following a three-stop project trail" />
   </a>
 </p>
 
@@ -28,14 +28,21 @@ I am a student developer exploring intelligent systems—from machine learning a
 | --- | --- | --- |
 | Machine Learning | Graph Foundation Models | Medical Imaging |
 
-## 🏕️ 当前任务 · Featured quest
+## 🏕️ 项目远征 · Project expedition
 
-### [Visionary Grove · 绘梦花园](https://github.com/wen070705/Visionary-Grove)
+<p align="center">
+  <a href="https://github.com/wen070705/Zhi-zhang-smart-accounting-"><strong>① Zhi-Zhang</strong><br/>智账 · 从工具出发</a>
+  &nbsp;&nbsp;━━━➤&nbsp;&nbsp;
+  <a href="https://github.com/wen070705/Visionary-Grove"><strong>② Visionary Grove</strong><br/>绘梦花园 · 让想法生长</a>
+  &nbsp;&nbsp;━━━➤&nbsp;&nbsp;
+  <a href="https://github.com/wen070705/lianlixiaozhan"><strong>③ Lianli Xiaozhan</strong><br/>连理小站 · 走向真实应用</a>
+</p>
 
-> 让每一个奇思妙想生根发芽。  
-> A place where every imaginative idea can take root and grow.
-
-这是我的第一个重点展示项目，也是这座个人花园的起点。项目仍在成长，欢迎关注它接下来的每一次发芽。
+| 起点 · Origin | 成长 · Growth | 应用 · Fieldwork |
+| --- | --- | --- |
+| [**Zhi-Zhang Smart Accounting**](https://github.com/wen070705/Zhi-zhang-smart-accounting-) | [**Visionary Grove**](https://github.com/wen070705/Visionary-Grove) | [**Lianli Xiaozhan**](https://github.com/wen070705/lianlixiaozhan) |
+| 我的第一段开发实践 | 让每一个奇思妙想生根发芽 | 识别病虫害，把技术带到田间 |
+| My first building experience | A garden where ideas take root | Identifying pests and plant diseases |
 
 ## 📊 冒险记录 · Journey log
 

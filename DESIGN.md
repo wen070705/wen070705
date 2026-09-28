@@ -2,7 +2,7 @@
 
 ## Theme
 
-Morning in a research grove: a hand-painted, non-pixel fantasy adventure where data paths grow like garden trails. Color strategy is a committed environmental palette led by sky blue, deep leaf green, and amber sunlight.
+An explorer's sketchbook: loose brown-pencil contours, translucent watercolor fills, visible construction strokes, and generous paper space. The project route grows like a hand-drawn garden trail.
 
 ## Color
 
@@ -19,7 +19,7 @@ Chinese-first bilingual typography. Use `Noto Sans SC` for UI/body and `ZCOOL Xi
 
 ## Imagery
 
-The garden knight is the single hero illustration and identity anchor. Preserve the white plush fur, black sunglasses, green scarf, bronze light armor, leaf shield, and hopeful garden setting. Do not reproduce third-party game assets.
+The doodled garden knight is the single identity anchor. Preserve the white plush fur, black sunglasses, green scarf, light armor, leaf shield, and handmade uneven linework. Do not reproduce third-party characters or game assets.
 
 ## Layout
 
