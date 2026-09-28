@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wen070705.github.io">
-    <img src="./assets/garden-knight-doodle.png" width="100%" alt="A loose watercolor doodle of a garden knight following a three-stop project trail" />
+    <img src="./assets/garden-knight-doodle.jpg" width="100%" alt="A loose watercolor doodle of a garden knight following a three-stop project trail" />
   </a>
 </p>
 
